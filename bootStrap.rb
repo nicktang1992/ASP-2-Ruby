@@ -1,4 +1,4 @@
-load 'wordCounter.rb'
+load 'WordCounter.rb'
 
 #initialize wordCounter
 counter = WordCounter.new("testFile.txt");
